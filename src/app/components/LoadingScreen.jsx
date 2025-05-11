@@ -56,8 +56,8 @@ export default function LoadingScreen() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.5 }}
             >
-                <h2 className="text-2xl md:text-3xl font-bold text-pink-600 mb-2">Creating something magical</h2>
-                <p className="text-lg md:text-xl text-purple-700">for the most wonderful Mother in the world...</p>
+                <h2 className="text-2xl md:text-3xl font-bold text-pink-600 mb-2">Creando algo mágico</h2>
+                <p className="text-lg md:text-xl text-purple-700">para la madre más maravillosa del mundo...</p>
             </motion.div>
 
             <motion.div
